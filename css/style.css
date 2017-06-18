@@ -1,5 +1,8 @@
 body {
-    background-color: #183152;
+    background-image: url(../img/purple_wavy_lines-wallpaper-1920x1200.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 /* Container */
 
@@ -74,5 +77,34 @@ body {
 .intro {
     margin: 5% 10% 5% 10%;
 }
+.intro h2 {
+    text-align: center;
+    color: #183152;
+}
 
+/* infos */
 
+.infos h2 {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+
+/* Horraires */
+.horraires {
+    display: block;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+.horraires th {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+.horraires td {
+    color: #fff;
+    font-size: 25px;
+    width: 33%;
+    padding: 10px;
+    text-align: center;
+}

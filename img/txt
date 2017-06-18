@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Maison de la copie</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-    <div class="container">
-        <div class="header">
-            <div class="logo">
-                <h1><a href="index.html">Maison-Copie</a></h1>
-                <h2>Commerce indépendant depuis 1987</h2>
-            </div>
-            <div class="nav">
-                <ul>
-                  <li><a href="index.html">Acceuil</a></li>
-                  <li><a class="active" href="infos.html">Infos pratiques</a></li>
-                  <li><a href="#"></a></li>
-                  <li style="float: right"><a href="#">Inscription / Connexion</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="intro">
-           <h2>Compte utilisateur &bull; Réalisation de devis gratuit</h2>
-        </div>
-        <div class="infos">
-            <h2>Heure d'ouverture</h2>
+<h2> Horraires</h2>
                 <div class="horraires">
                     <table>
                     <tr>
@@ -65,8 +37,3 @@
                         <td>14H00 - 18H00</td>
                     </tr>
                 </table>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
