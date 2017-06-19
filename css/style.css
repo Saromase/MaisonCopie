@@ -108,3 +108,9 @@ body {
     padding: 10px;
     text-align: center;
 }
+
+/* map */
+.map {
+    padding-left: 20%;
+    padding-right: 20%;
+}
