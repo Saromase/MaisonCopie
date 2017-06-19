@@ -26,7 +26,7 @@
            <h2>Inscription &bull; Connexion</h2>
         </div>
         <div class="sign_up">
-            <form action=" " method="post">
+            <form action="inscription.html" method="post">
                 <h2>S'inscrire</h2>
                 <p>Nom</p>
                 <input type="text" name="last_name">
@@ -38,7 +38,7 @@
             </form>
         </div>
         <div class="sign_up">
-            <form action=" " method="post">
+            <form action="index_users.html" method="post">
                 <h2>Se connecter</h2>
                 <p>Nom</p>
                 <input type="text" name="last_name">
